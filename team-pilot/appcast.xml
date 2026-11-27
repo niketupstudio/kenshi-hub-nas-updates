@@ -7,15 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <description>Kenshi Hub NAS 软件更新</description>
     <sparkle:bundleIdentifier>com.vibecontext.hub.nas</sparkle:bundleIdentifier>
     <item>
-      <title>Kenshi Hub NAS 0.1.136</title>
-      <pubDate>Fri, 27 Nov 2026 07:39:07 +0000</pubDate>
-      <sparkle:version>136</sparkle:version>
-      <sparkle:shortVersionString>0.1.136</sparkle:shortVersionString>
+      <title>Kenshi Hub NAS 0.1.139</title>
+      <pubDate>Fri, 27 Nov 2026 10:06:48 +0000</pubDate>
+      <sparkle:version>139</sparkle:version>
+      <sparkle:shortVersionString>0.1.139</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://niketupstudio.github.io/kenshi-hub-nas-updates/team-pilot/Kenshi-Hub-NAS-0.1.136-macOS.zip" length="12308291" type="application/octet-stream" sparkle:edSignature="qrQeyd80Knmm8Dwll09HfY07AWBjZWMxQ5rUmzxS3vdTnpx2Jc11siyeVFuLQA4E6KJPeyAFZ2ppRkChE3ITAw=="></enclosure>
+      <enclosure url="https://niketupstudio.github.io/kenshi-hub-nas-updates/team-pilot/Kenshi-Hub-NAS-0.1.139-macOS.zip" length="12351472" type="application/octet-stream" sparkle:edSignature="IYuAe7Z/+rMJAuArbRgsqndO5nB1W8bsgblTxNvMUVekB78Yy1gdJIRMrzTdqpW5E4NwJki8aoqtqGA7gJ7uBw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: AbzUOTfFy+c7kcl7vbJJyRpe5E5vJnAlqv0CGIoiwAuAb/bp3XEQRhw2KQq/WNmfTCV6cldNNwkzgdqS6cgTCw==
+edSignature: uQVJquYr6lmzm37A1CR86+HV5bWqvo/4GFhpYIJJIturxE8xl+0W/GOCCUlO1/srOoNvwHvcEoqQ+wrFPIB+Cw==
 length: 1289
 -->
